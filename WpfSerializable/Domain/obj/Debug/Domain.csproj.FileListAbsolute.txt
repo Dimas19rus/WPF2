@@ -1,0 +1,5 @@
+c:\users\dimas\onedrive\документы\visual studio 2015\Projects\WpfSerializable\Domain\bin\Debug\Domain.dll
+c:\users\dimas\onedrive\документы\visual studio 2015\Projects\WpfSerializable\Domain\bin\Debug\Domain.pdb
+c:\users\dimas\onedrive\документы\visual studio 2015\Projects\WpfSerializable\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\dimas\onedrive\документы\visual studio 2015\Projects\WpfSerializable\Domain\obj\Debug\Domain.dll
+c:\users\dimas\onedrive\документы\visual studio 2015\Projects\WpfSerializable\Domain\obj\Debug\Domain.pdb
